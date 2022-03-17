@@ -13,5 +13,7 @@ git config --global core.autocrlf true
 git init # инициализация репозитория
 
 git add . # добавить все файлы
-
 git commit -m 'описание' # сделать коммит
+git diff # 
+git diff --color-words
+git checkout . #вернуть все последнее изменение
